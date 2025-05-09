@@ -1,0 +1,17 @@
+# Eclipse
+/.metadata/
+/.recommenders/
+.classpath
+bin/
+
+# IntelliJ Idea
+/.idea/
+
+# OS
+.DS_Store
+.*.swp
+*.bak
+
+# Maven
+target/
+.flattened-pom.xml
